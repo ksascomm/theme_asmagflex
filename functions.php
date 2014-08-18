@@ -336,7 +336,8 @@ function get_the_volume_name($post) {
 		      // add spacing to the title based on the depth
 		      $item->title = str_repeat("&nbsp;", $depth * 4).$item->title;
 		
-		      parent::start_el(&$output, $item, $depth, $args);
+			//deleted '&' on $output; TG 8-13-2014
+		      parent::start_el($output, $item, $depth, $args);
 		
 		      // no point redefining this method too, we just replace the li tag...
 		      $output = str_replace('<li', '<option value="'. esc_attr( $item->url        ) .'"', $output);

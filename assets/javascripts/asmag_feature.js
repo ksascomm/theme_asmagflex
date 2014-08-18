@@ -415,5 +415,3 @@ $j(document).ready(function() {
 				});
 
 });
- 
-
