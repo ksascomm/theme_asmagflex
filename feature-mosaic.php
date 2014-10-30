@@ -84,8 +84,15 @@ Template Name: Feature - Mosaic */
         });
     });
 	$q("a.popup").fancybox({
-		openEffect	: 'none',
-		closeEffect	: 'none'
+		openEffect	: 'fade',
+		closeEffect	: 'fade',
+		helpers : {
+        overlay : {
+            css : {
+                'background' : 'rgba(43, 42, 46, 0.7)'
+            }
+        }
+    }
 	});
     });
 			</script>
