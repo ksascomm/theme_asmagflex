@@ -59,6 +59,7 @@
 	add_image_size( 'homethumb', 60, 70, true );
 	add_image_size( 'alumni', 150, 130, true );
 	add_image_size( 'filterthumb', 235, 195, true);
+	add_image_size( 'filterthumbbig', 520, 280, true);
 
 //pagination function
 	function asmag_pagination($prev = 'Ç', $next = 'È') {

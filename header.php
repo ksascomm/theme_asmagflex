@@ -22,7 +22,7 @@
 		
 		<?php if (is_page_template( 'lifespan-adult.php' ) || is_page_template( 'lifespan-baby.php' ) || is_page_template( 'lifespan-elder.php' ) || is_page_template( 'lifespan-expert.php' ) || is_page_template( 'lifespan-home.php' ) || is_page_template( 'lifespan-teen.php' ) ){ ?><link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assets/stylesheets/features/learning-along-the-lifespan.css"> <?php } ?>
 		
-		<?php if(is_page() && is_page_template('template-tableofcontents.php') == false) { ?>
+		<?php if(is_page() && is_page_template('template-tableofcontents.php') || is_page_template('template-tableofcontents-features.php') == false) { ?>
 			<script async type="text/javascript" src="http://fast.fonts.net/jsapi/a5273dfb-2de2-4945-99ec-e9d381669740.js"></script>		
 		<?php } ?>
 		
@@ -42,7 +42,7 @@
 <?php include_once("analytics.php") ?>	
 
 <header>
-		<?php if (is_page_template('template-tableofcontents.php')) {locate_template('/parts/header_homepage.php', true, false);} 
+		<?php if (is_page_template('template-tableofcontents.php') || is_page_template('template-tableofcontents-features.php')) {locate_template('/parts/header_homepage.php', true, false);} 
 		else { locate_template('/parts/header_subpage.php', true, false); } ?>
 </header>
 
