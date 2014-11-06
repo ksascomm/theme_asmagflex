@@ -1,0 +1,69 @@
+.dropcap {
+	font-family: 'Museo Sans W01 900', Verdana, sans-serif;
+	color:#06c;
+	font-size:4em;
+	margin-top:10px;
+}
+
+.panel.callout.radius {
+min-height: 150px;
+}
+
+.panel.callout p {
+	font-size: 16px;
+}
+
+.panel.callout h4 {
+	color:#fff;
+}
+
+.panel.callout.purple {
+	background: #777296;
+	border-color: #443F63;
+	text-align: center;
+	
+}
+
+.panel.callout.aqua {
+	background: #9BB7C7;
+	border-color: #688494;
+	text-align: center;
+}
+
+.panel.callout.reddish {
+	background: #A54849;
+	border-color: #721516;
+	text-align: center;
+}
+
+.panel.callout.orangy {
+	background: #CF962C;
+	border-color: #9C6300;
+	text-align: center;
+}
+
+.panel.callout.green {
+	background: #9FB19A;
+	border-color: #6C7E67;
+	text-align: center;
+}
+
+.panel.callout.blue {
+	background: #6C84A0;
+	border-color: #39516D;
+	text-align: center;
+}
+
+p.opener {
+	font-size: 18px;
+}
+
+.panel.caption {
+margin-right: -35px;
+margin-bottom: 15px;
+}
+
+.panel.caption p {
+font-weight: bold;
+font-size: 18px;
+}

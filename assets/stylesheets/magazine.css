@@ -8,6 +8,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+p {
+	font-size: 16px;
+}
+
 /* 1.0 Special Classes
 ___________________________________________________________*/
 
@@ -938,6 +943,17 @@ ul[data-clearing] li.gallery-item {
 ul[data-clearing] li.gallery-item img {
 	max-width: 100px;
 }
+
+.books {
+    margin-bottom: 40px;
+}
+
+.books p {
+    font-size: 14px;
+}
+
+
+
 /* 8.0 Sidebar
 ----------------------------------*/
 #sidebar {

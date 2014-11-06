@@ -1,0 +1,165 @@
+/*body {
+background-image: url('../../images/v12n1/retrospective.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 50% 60%;
+background-attachment: fixed;
+}*/
+
+header,
+body.page-template-template-tableofcontents-php #container-mid {
+	background: none;
+}
+
+#search-bar a {
+text-shadow: 2px 2px 3px rgba(0,0,0,.9);
+}
+
+#footer-top,
+#comments {
+	background: #000;
+}
+#footer-top,
+#footer-top h5, #footer-top h5 a,
+#sidebar .table h4, #footer-top .table h4 {
+	color: #FFF !important;
+}
+
+#sidebar .table .spacer, #footer-top .table .spacer {
+	background: #FFF;
+}
+#container-mid {
+	background: none;
+}
+.postmaterial img {
+	max-width:none; 
+}
+
+#mosaic {
+	margin: 0 auto; 
+	max-width:1000px; 
+	clear: right;
+	margin-top: 25px;
+}
+
+.headerbreak,
+.nonbackground {
+	display:none;
+}
+
+h3.featuretitle {
+font-size: 75px;
+font-family: 'Myriad W01 Regular', sans-serif;
+margin-bottom: .3em;
+color: #fff;
+}
+
+
+/*.intro-container {
+	max-width: 1000px; 
+	background: rgba(47,28,13,0.5); 
+	border-radius: 10px;
+}*/
+
+h4.tagline{
+	color:white;
+}
+
+p.credit, 
+p.othercredits {
+	font-variant: small-caps;
+	font-family: 'Museo Sans W01 500', sans-serif;
+}
+
+.feature-intro {
+	margin:0px 30px;
+	padding: 25px;
+	font-family: 'Museo Sans W01 500', sans-serif;
+	color: #fff;
+background: rgba(0,0,0,0.8);
+}
+
+.fancytitle h3 {
+	font-size: 9.5em;
+	font-family: 'Museo Sans W01 900', sans-serif;
+	margin-bottom: .3em;
+	color: #ffe4b1
+
+}
+
+.pullquote p,
+.textblock p {
+	line-height: 20px;
+}
+.un {
+	font-family: Palatino, serif;
+	font-style: italic;
+}
+
+
+p.credit {
+	margin-bottom: 0px;
+}
+
+p.othercredits {
+	font-weight: normal;
+	font-style: normal;
+}
+.wysiwyg-more-less {
+	margin-bottom: 25px;
+}
+.wysiwyg-read-more-link,
+a.video {
+	font-size: 18px;
+	float: right;
+	width: auto;
+	font-family: 'Museo Sans W01 900' sans-serif;
+	text-transform: uppercase;
+	color: #ff6700;
+	height:20px;
+	background: url('../../images/readMore.png') no-repeat;
+	background-position: 0px 0px;
+	clear:none;
+}
+
+a.video {
+	background: url('../../images/play.png') no-repeat;
+	background-position: 100% 0px;
+	margin-left: 20px;
+padding-right:25px;
+}
+
+.wysiwyg-read-more-link:hover,
+.wysiwyg-read-more-link:visited,
+a.video:hover,
+a.video:visited {
+	color: #ff6700
+}
+
+.caption {
+background: rgba(249, 244, 216, .9);
+margin: -10px 0 10px 0;
+}
+
+h5 a , .caption h5 {
+	color: 	#FF0000;
+}
+
+.caption p {
+	color: #000;
+}
+
+.caption img {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+#disqus_thread {
+	color: #ffe4b1;
+}
+
+#disqus_thread a {
+	color: #ff6700
+}
+
