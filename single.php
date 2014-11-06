@@ -20,7 +20,35 @@
 					//End and reset query
 				$volume = get_the_volume($post); $volume_name = get_the_volume_name($post); endwhile; endif; wp_reset_query();?>
 			</div><!--End postmaterial -->
-		
+		<?php if (is_single('Of Biology and Daylilies')) { ?>
+			<ul id="mosaic" class="clearfix">	
+		<!-- Set argument to pull image attachments -->
+			<?php $mosaic_args = array(
+					'post_type' => 'attachment',
+					'numberposts' => -1,
+					'post_status' => null,
+					'post_parent' => $post->ID
+					); 
+				$mosaic_attachments = get_posts($mosaic_args);
+					if ($mosaic_attachments) {
+						foreach ($mosaic_attachments as $mosaic_attachment) {
+							$mosaic_link = wp_get_attachment_image_src($mosaic_attachment->ID, 'full', false);
+							$mosaic_caption = $mosaic_attachment->post_excerpt;
+							$mosaic_description = $mosaic_attachment->post_excerpt;
+							$mosaic_dimensions = $mosaic_attachment->menu_order;
+							echo $mosaic_description;
+							echo '<li class="item size-' . $mosaic_dimensions;
+							echo '">
+									<a href="' . $mosaic_link[0];
+							echo '" class="lightbox">
+										<img src="' . $mosaic_link[0];
+							echo '" title="' . $mosaic_caption;
+							echo '" /></a></li>';		
+		                    }
+		                } ?>
+
+		</ul><!--End #mosaic -->
+		<?php } ?>	
 		<?php comments_template( '/comments.php' ); ?> 
 		</article> 
 	
@@ -35,7 +63,8 @@
 			</div>		
 			<?php $sidebar_query = new WP_Query(array(
 				'cat' => $thiscat,
-				'orderby' => 'rand',
+				'orderby' => 'date',
+				'order' => 'DESC',
 				'posts_per_page' => 3
 			));
 			?>
@@ -80,5 +109,37 @@
  </div> <!--End sidebar-right -->
 	    	</div> <!--End content -->
 		</div> <!--End container-mid -->
+
+		<?php if (is_single('Of Biology and Daylilies')) { ?>
+
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/javascripts/jquery.photomosaic.js"></script>
+			<script>
+    var $q = jQuery.noConflict();
+			$q(function(){
+
+      var $mosaic = $q('#mosaic');
+     $q(document).ready(function(){
+        $mosaic.photoMosaic({
+        	input : 'html',
+        	columns : 6,
+        	modal_name : 'lightbox',
+        	external_links : true,
+        	random : true
+        });
+    });
+	$q("a.popup").fancybox({
+		openEffect	: 'fade',
+		closeEffect	: 'fade',
+		helpers : {
+        overlay : {
+            css : {
+                'background' : 'rgba(43, 42, 46, 0.7)'
+            }
+        }
+    }
+	});
+    });
+			</script>
+<?php } ?>	
 
 <?php get_footer(); ?>
