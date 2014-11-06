@@ -121,7 +121,7 @@
 		<!-- JavaScript -->
 		<script async src="<?php echo get_template_directory_uri(); ?>/assets/javascripts/asmag_custom.js"></script>
 		
-		<?php if (is_front_page() || is_page_template( 'template-tableofcontents.php' ) ){ ?>
+		<?php if (is_front_page() || is_page_template( 'template-tableofcontents.php' || 'template-tableofcontents-features.php' ) ){ ?>
 			<script async src="<?php echo get_template_directory_uri(); ?>/assets/javascripts/asmag_front.js"></script>
 		<?php } ?>
 		
