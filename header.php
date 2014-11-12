@@ -28,6 +28,8 @@
 		
 		<?php wp_enqueue_script('jquery'); ?>
 		<script async src="<?php echo get_template_directory_uri() ?>/assets/javascripts/modernizr.foundation.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/headroom/0.6.0/headroom.min.js"></script>
+<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" media="screen">
 		<?php wp_head(); ?>
 		
   <!-- Make IE a modern browser -->

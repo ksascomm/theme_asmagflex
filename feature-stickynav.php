@@ -90,6 +90,14 @@ Template Name: Feature - Sticky Nav
         		});        	
         	</script>
 
+        	<script type="text/javascript">
+        	// grab an element
+var myElement = document.querySelector("#sticky-food");
+// construct an instance of Headroom, passing the element
+var headroom  = new Headroom(myElement);
+// initialise
+headroom.init(); </script>
+
 	
 <?php locate_template('parts/footer_feature.php', true, false);				
  get_footer(); ?>

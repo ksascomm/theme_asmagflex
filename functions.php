@@ -446,5 +446,15 @@ register_taxonomy_for_object_type('category', 'page');
 }
 add_action( 'admin_init', 'add_category_to_pages' );
 
+add_filter( 'sbtt_button_markup', 'my_sbtt_filter' );
+function my_sbtt_filter($button_markup) {
+if ( !is_page('5130')) {
+return "";
+} else {
+return $button_markup;
+}
+}
+
+
 include_once (TEMPLATEPATH . '/assets/functions/asmag-metabox.php');
 ?>
