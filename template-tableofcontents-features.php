@@ -125,8 +125,17 @@ Template Name: Issue Table of Contents — 2 Columned Features
 
 <style>
 .features img {
-width: 100%;
-min-height: 100%;
+ max-width: 100%;
+ height: auto;
+ max-height: inherit;
 }
+
+@media only screen and (max-width: 767px) { 
+#homepage .row {
+ width:inherit;
+
+}
+}
+
 </style>
 <?php get_footer(); ?>
