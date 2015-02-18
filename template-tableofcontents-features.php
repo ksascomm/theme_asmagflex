@@ -17,7 +17,8 @@ Template Name: Issue Table of Contents — 2 Columned Features
 				'post_type' => 'post',
 				'volume' => $volume,
 				'category__not_in' => array(55, 30),
-				'orderby' => 'rand',
+				'orderby' => 'modified',
+				'order' => 'DESC',
 				'posts_per_page' => '-1'));
 	set_transient( 'front_' . $volume . '_query', $asmag_issue_query, 86400 ); } 
 
@@ -133,7 +134,12 @@ Template Name: Issue Table of Contents — 2 Columned Features
 @media only screen and (max-width: 767px) { 
 #homepage .row {
  width:inherit;
+}
+}
 
+@media only screen and (max-width: 1279px) and (min-width: 768px) {
+#homepage .row {
+ width:inherit;
 }
 }
 
