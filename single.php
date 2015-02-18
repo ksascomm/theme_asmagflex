@@ -110,7 +110,7 @@
 	    	</div> <!--End content -->
 		</div> <!--End container-mid -->
 
-		<?php if (is_single('Of Biology and Daylilies')) { ?>
+		<?php if (is_single ( array('Of Biology and Daylilies', 'presidents-day-of-service'))) { ?>
 
 <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/javascripts/jquery.photomosaic.js"></script>
 			<script>

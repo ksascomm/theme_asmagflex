@@ -24,7 +24,7 @@
 				<div id="search_links" class="eight columns links mobile-two inline hide-for-mobile">
 					<li><a href="<?php echo site_url('/dean?volume=') . $volume; ?>">From the Dean</a></li>
 					<li><a href="<?php echo site_url('/archive'); ?>">Archives</a></li>
-					<li><a href="<?php echo site_url('/contact') . $volume; ?>">Contact</a></li>
+					<li><a href="<?php echo site_url('/contact?volume=') . $volume; ?>">Contact</a></li>
 				</div>
 					<div class="four columns mobile-two">
 					<form method="GET" action="<?php echo site_url('/search'); ?>">

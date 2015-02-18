@@ -154,5 +154,21 @@ echo '<script>
 </script>';
 }
 ?>
+<style>
+	/* Medium screens */
+@media only screen and (max-width: 1279px) and (min-width: 768px) { .feature-intro {
+margin: 0px;
+padding: 5px;
+}
+}
+
+/* Small screens */
+@media only screen and (max-width: 767px) { .feature-intro {
+margin: 0px;
+padding: 5px;
+} }
+
+</style>
+
 <?php locate_template('parts/footer_feature.php', true, false);				
  get_footer(); ?>
