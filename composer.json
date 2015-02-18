@@ -1,0 +1,26 @@
+{
+    "name": "ksascomm/asmagflex",
+    "type": "wordpress-theme",
+    "license": "GPL2",
+  	"description": "Responsive Wordpress theme, built for online magazines",
+  	"homepage": "https://github.com/ksascomm/theme_asmagflex",
+  	"authors": [
+      {
+      "name": "Tim Gelles",
+      "email": "ksasweb@jhu.edu",
+      "homepage": "http://krieger.jhu.edu"
+      }
+    ],
+    "keywords": [
+      "wordpress"
+    ],
+  "support": {
+    "issues": "http://krieger.jhu.edu"
+  },
+  "require": {
+        "composer/installers": "~1.0"
+    },
+    "replace": {
+        "cpeckens/theme_asmagflex": "1.0.*"
+    }
+}
