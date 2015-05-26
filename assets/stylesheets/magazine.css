@@ -470,22 +470,22 @@ article.field {
 }
 #features .caption-box,
 .green_bg {
-	background: #006666;
+	background: #007a53;
 }
 
 .purple_bg,
 #news .caption-box{
-	background: #333366;
+	background: #24135f;
 }
 
 .fushia,
 #insights .caption-box{
-	background: #993366;
+	background: #8e3a80;
 }
 
 .yellow_bg,
 #research .caption-box{
-	background: #dbb003;
+	background: #cba052;
 }
 
 .orange_bg,
@@ -495,7 +495,7 @@ article.field {
 
 .bright_blue_bg,
 #exclusive .caption-box{
-	background: #3399ff;
+	background: #418fde;
 }
 #homepage .row {
 	width: 1040px;
@@ -555,13 +555,13 @@ height: 195px;
 }
 
 .box:hover #news .caption-box {
-	background: rgb(51,51,102);
-	background: rgba(51,51,102, .85) !important;
+	background: rgb(36,19,95);
+	background: rgba(36,19,95, .85) !important;
 }
 
 .box:hover #insights .caption-box {
-	background: rgb(153,51,102); 
-	background: rgba(153,51,102, .85) !important;
+	background: rgb(142,58,126); 
+	background: rgba(142,58,126, .85) !important;
 }
 
 .box:hover #alumni .caption-box {
@@ -570,8 +570,8 @@ height: 195px;
 }
 
 .box:hover #research .caption-box {
-	background: rgb(219,176,3); 
-	background: rgba(219,176,3, .85) !important;
+	background: rgb(203,160,82); 
+	background: rgba(203,160,82, .85) !important;
 }
 
 .box:hover #exclusive .caption-box {
@@ -761,7 +761,7 @@ h2.toc_header.exclusive {
 .postmaterial a,
 .postmaterial a:hover
 .postmaterial a:visited {
-	color: #0099cc;
+	color: #005eb8;
 	font-family: 'Myriad W01 SmBd';
 	text-decoration:none;
 }

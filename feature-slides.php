@@ -91,21 +91,21 @@ $k(document).ready(function(){
 </div>
 <div class="clearboth"></div>
 <ul class="block-grid eight-up" data-clearing><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Anthropology-Department-002.jpg" title="Anthropology-Department-002" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Anthropology-Department-002-150x150.jpg" class="attachment-thumbnail" alt="Anthropology-Department-002" title="Anthropology-Department-002"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Anthropology-Department-002.jpg" title="Anthropology-Department-002" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Anthropology-Department-002-150x150.jpg" class="attachment-thumbnail" alt="Anthropology-Department-002" title="Anthropology-Department-002"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Earth-and-Planetary-Sciences-056.jpg" title="Earth-and-Planetary-Sciences-056" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Earth-and-Planetary-Sciences-056-150x150.jpg" class="attachment-thumbnail" alt="Earth-and-Planetary-Sciences-056" title="Earth-and-Planetary-Sciences-056"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Earth-and-Planetary-Sciences-056.jpg" title="Earth-and-Planetary-Sciences-056" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Earth-and-Planetary-Sciences-056-150x150.jpg" class="attachment-thumbnail" alt="Earth-and-Planetary-Sciences-056" title="Earth-and-Planetary-Sciences-056"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Field-Kit-Chesney.jpg" title="Field-Kit-Chesney" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Field-Kit-Chesney-150x150.jpg" class="attachment-thumbnail" alt="Field-Kit-Chesney" title="Field-Kit-Chesney"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Field-Kit-Chesney.jpg" title="Field-Kit-Chesney" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Field-Kit-Chesney-150x150.jpg" class="attachment-thumbnail" alt="Field-Kit-Chesney" title="Field-Kit-Chesney"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Hisotry-of-Medicine.jpg" title="Hisotry-of-Medicine" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Hisotry-of-Medicine-150x150.jpg" class="attachment-thumbnail" alt="Hisotry-of-Medicine" title="Hisotry-of-Medicine"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Hisotry-of-Medicine.jpg" title="Hisotry-of-Medicine" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Hisotry-of-Medicine-150x150.jpg" class="attachment-thumbnail" alt="Hisotry-of-Medicine" title="Hisotry-of-Medicine"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/IMG_3485.jpg" title="IMG_3485" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/IMG_3485-150x150.jpg" class="attachment-thumbnail" alt="IMG_3485" title="IMG_3485"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/IMG_3485.jpg" title="IMG_3485" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/IMG_3485-150x150.jpg" class="attachment-thumbnail" alt="IMG_3485" title="IMG_3485"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Peabody-objects-001.jpg" title="Peabody-objects-001" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Peabody-objects-001-150x150.jpg" class="attachment-thumbnail" alt="Peabody-objects-001" title="Peabody-objects-001"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Peabody-objects-001.jpg" title="Peabody-objects-001" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Peabody-objects-001-150x150.jpg" class="attachment-thumbnail" alt="Peabody-objects-001" title="Peabody-objects-001"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Roseman-Lab-022.jpg" title="Roseman-Lab-022" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Roseman-Lab-022-150x150.jpg" class="attachment-thumbnail" alt="Roseman-Lab-022" title="Roseman-Lab-022"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Roseman-Lab-022.jpg" title="Roseman-Lab-022" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Roseman-Lab-022-150x150.jpg" class="attachment-thumbnail" alt="Roseman-Lab-022" title="Roseman-Lab-022"></a>
 			</li><li>
-				<a href="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Typewriters-Physics-004.jpg" title="Typewriters-Physics-004" class="cboxElement"><img src="<?php echo site_url(); ?>/wp-content/uploads/2012/05/Typewriters-Physics-004-150x150.jpg" class="attachment-thumbnail" alt="Typewriters-Physics-004" title="Typewriters-Physics-004"></a>
+				<a href="<?php echo home_url(); ?>/app/uploads/2012/05/Typewriters-Physics-004.jpg" title="Typewriters-Physics-004" class="cboxElement"><img src="<?php echo home_url(); ?>/app/uploads/2012/05/Typewriters-Physics-004-150x150.jpg" class="attachment-thumbnail" alt="Typewriters-Physics-004" title="Typewriters-Physics-004"></a>
 			</li>
 </ul>
 

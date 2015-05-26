@@ -8,29 +8,29 @@
 
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm1.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat. " />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm4.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm4.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/5.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm5.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/5.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm5.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/6.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm6.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/6.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm6.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/7.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm7.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/7.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm7.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/8.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm8.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/8.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-two/thumbs/thm8.jpg" data-caption="The spacious atrium offers lots of opportunities for students and professors to meet, share ideas, and grab a bite to eat." />
 			</a></li>		
 		</ul>
 	</div>
@@ -80,17 +80,17 @@
 		</ul>
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm1.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm1.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm2.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm2.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm3.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm3.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm4.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-three/thumbs/thm4.jpg" data-caption="Biophysics students use complex computer modeling in their research and studies. The hypotheses produced with the computational studies can then be tested experimentally in the lab." />
 			</a></li>				
 		</ul>
 	</div>
@@ -128,23 +128,23 @@
 		</ul>
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm1.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm1.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm2.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm2.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm3.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm3.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm4.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm4.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/5.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm5.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/5.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm5.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/6.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm6.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/6.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-four/thumbs/thm6.jpg" data-caption="Neuroscience students need to see and touch the brains they study. In the new space, each station has its own video screen, so students can watch the professor’s procedures while completing their own, and then share their work with their peers on 55-inch HDTV’s mounted on the lab’s walls." />
 			</a></li>				
 		</ul>
 	</div>
@@ -194,29 +194,29 @@
 		</ul>
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm1.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm1.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm2.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm2.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm3.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm3.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm4.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm4.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/5.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm5.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/5.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm5.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/6.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm6.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/6.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm6.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/7.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm7.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/7.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm7.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/8.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm8.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/8.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-five/thumbs/thm8.jpg" data-caption="The new chemistry laboratories boast 96 roomy hoods and benches. The configuration—six pods of 16 hoods—allows instructors to differentiate the work students do. With different labs sharing the same floors, students can explore how other disciplines relate to their own." />
 			</a></li>		
 		</ul>
 	</div>	<a class="close-reveal-modal">&#215;</a>
@@ -257,20 +257,20 @@
 		</ul>
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm1.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm1.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm2.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm2.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm3.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm3.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm4.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm4.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/5.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm5.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/5.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-six/thumbs/thm5.jpg" data-caption="Biology students conduct a wide range of experiments in the new laboratory, including the identification and growth of phages—bacteria—gathered from soil." />
 			</a>
 			</li>
 		</ul>
@@ -310,32 +310,32 @@
 	<div class="gallery-container row">
 		<ul class="twelve columns" data-clearing>
 
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/1.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm1.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/1.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm1.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/2.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm2.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/2.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm2.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/3.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm3.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/3.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm3.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/4.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm4.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/4.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm4.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/5.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm5.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/5.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm5.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/6.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm6.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/6.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm6.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/7.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm7.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/7.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm7.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>		
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/8.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm8.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/8.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm8.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>
-			<li><a href="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/9.jpg">
-			   <img src="../../wp-content/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm9.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
+			<li><a href="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/9.jpg">
+			   <img src="../../app/themes/asmagflex/parts/utl-galleries/gallery-seven/thumbs/thm9.jpg" data-caption="The sweeping glass windows on the north side of the new building offer passers-by constantly changing views, filled with reflections and light." />
 			</a></li>
 		</ul>
 	</div>	<a class="close-reveal-modal">&#215;</a>

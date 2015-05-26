@@ -144,13 +144,14 @@ echo '<div class="six columns offset-by-six mobile-twelve">';
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 <?php
+$link = get_template_directory_uri(); 
 if (is_page( 'In Plain Air' ) ){
 echo '<script>
-  jQuery.backstretch("http://magazine.dev/wp-content/themes/asmagflex/assets/images/v12n1/plain-air_JHU6240_a.jpg");
+  jQuery.backstretch("' . $link . '/assets/images/v12n1/plain-air_JHU6240_a.jpg");
 </script>';
 }elseif (is_page('Past in the Present') ){ 
 echo '<script>
-  jQuery.backstretch("http://magazine.dev/wp-content/themes/asmagflex/assets/images/v12n1/retrospective.jpg");
+   jQuery.backstretch("' . $link . '/assets/images/v12n1/retrospective.jpg");
 </script>';
 }
 ?>

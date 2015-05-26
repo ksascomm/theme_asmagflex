@@ -3,7 +3,7 @@ jQuery(document).ready(function($) {
   	$view = $( window ).height();
   	if ($view < 630 ) { 
 	  	$(".utl-container").empty();
-		$(".utl-container").load("../../wp-content/themes/asmagflex/parts/utl-print.html");
+		$(".utl-container").load("../../app/themes/asmagflex/parts/utl-print.html");
 		$("#nav-container").addClass("hide");
   	}
   	if ($view > 993 ) { $height = 673; } else {$height = $view - 320;}

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Template Name: Issue Table of Contents — 2 Columned Features
 */
@@ -16,7 +16,7 @@ Template Name: Issue Table of Contents — 2 Columned Features
 			$asmag_issue_query = new WP_Query(array(
 				'post_type' => 'post',
 				'volume' => $volume,
-				'category__not_in' => array(55, 30),
+				'category__not_in' => array(55, 30, 3, 4),
 				'orderby' => 'modified',
 				'order' => 'DESC',
 				'posts_per_page' => '-1'));
