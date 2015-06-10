@@ -1,5 +1,5 @@
 body {
-	background: #000000 url('../../images/v12n2/hdr_image_resilient.jpg') no-repeat top center !important;
+	background: #000000 url('../../images/v12n2/hdr_image_resilient-6.jpg') no-repeat top center !important;
 }
 
 small {
@@ -10,7 +10,7 @@ small {
 	background: #000000;
 }
 .intro-container {
-	min-height: 626px;
+	min-height: 540px;
 }
 .intro-container,
 #feature,
@@ -58,12 +58,12 @@ p.tagline {
 }
 
 p.creditalt {
-	margin-top: 50px;
-	font-size: 18px;
+	margin-top: 30px;
+	font-size: 24px;
 }
 
 p.othercreditsalt {
-	font-size: 14px;
+	font-size: 18px;
 }
 p.creditalt,
 p.othercreditsalt {
@@ -100,6 +100,7 @@ p.othercreditsalt,
 
 h3.featuretitle, .fancytitle h3 {
 	font-size:9.750em;
+	line-height: .9em;
 	color:#FFF;
 	margin-bottom: 0;
 }
@@ -157,6 +158,28 @@ padding: 4px 33px;
 	color: #666;
 	line-height: 1.6em;
 	width: 85%;
+}
+
+#feature .photo-caption {
+	float: right;
+	width: 45%;
+}
+
+#feature .photo-caption img {
+	max-width: 100%;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	-moz-box-shadow:none;
+}
+
+#feature .photo-caption p {
+	width: 83%;
+	color: #000;
+	margin-left:40px;
+	padding-right: 20px;
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #000;
 }
 
 .dropcap {
@@ -341,7 +364,7 @@ img.quote {
 }
 
 /**************Sticky Nav*********************/
-#sticky-nav.fixed{
+#sticky-food.fixed{
     position: fixed;
     margin: 0px auto 0 auto;
     top: 0;
@@ -350,11 +373,11 @@ img.quote {
     max-width: none;
 }
 
-#sticky-nav.fixed + * {
+#sticky-food.fixed + * {
 	padding-top: 70px;
 }
 
-#sticky-nav {
+#sticky-food {
 	max-width: 1000px;
 	width: 100%;
 	background: #069990;
@@ -365,14 +388,14 @@ img.quote {
 	margin: 0 auto;
 }
 
-#sticky-nav a,
+#sticky-food a,
 #sticka:hover,
-#sticky-nav a:visited {
+#sticky-food a:visited {
 	color: #fff;
 	z-index:3000;
 }    
       
-#sticky-nav ul {
+#sticky-food ul {
 	margin: 0 auto;
 	height:30px;
 	line-height:30px;
@@ -381,14 +404,14 @@ img.quote {
 	padding-top: 10px;
 }
 
-#sticky-nav  li {
+#sticky-food  li {
 	display:inline;
 	padding:0 15px;
 	border-left:1px solid #555;
 	font-size: 18px;
 }
 
-#sticky-nav ul li:first-child {
+#sticky-food ul li:first-child {
 	border-left:0;
 }
 
@@ -436,7 +459,7 @@ img.quote {
 		position: inherit;
 	}
 	
-	#sticky-nav.fixed {
+	#sticky-food.fixed {
 		top: 30px;
 		height: 80px;
 	}

@@ -262,7 +262,7 @@ function get_the_volume_name($post) {
 	//***9.1 Menu Walker to add Foundation CSS classes
 		class foundation_navigation extends Walker_Nav_Menu
 		{
-		      function start_el(&$output, $item, $depth = 0, $args = array(), $current_object_id = 0)
+		      function start_el(&$output, $item, $depth, $args)
 		      {
 					global $wp_query;
 					$indent = ( $depth ) ? str_repeat( "", $depth ) : '';
@@ -300,7 +300,7 @@ function get_the_volume_name($post) {
 		            $output .= apply_filters( 'walker_nav_menu_start_el', $item_output, $item, $depth, $args );
 		            }
 		            
-		function start_lvl( &$output, $depth = 0, $args = array() ) {
+		function start_lvl(&$output, $depth) {
 			$output .= "\n<ul class=\"flyout up\">\n";
 		}
 		            
@@ -325,15 +325,15 @@ function get_the_volume_name($post) {
 
 	//***9.2 Menu Walker to create a dropdown menu for mobile devices	
 		class mobile_select_menu extends Walker_Nav_Menu{
-		    function start_lvl(&$output, $depth = 0, $args = array() ){
+		    function start_lvl(&$output, $depth){
 		      $indent = str_repeat("\t", $depth); // don't output children opening tag (`<ul>`)
 		    }
 		
-		    function end_lvl(&$output, $depth = 0, $args = array()){
+		    function end_lvl(&$output, $depth){
 		      $indent = str_repeat("\t", $depth); // don't output children closing tag
 		    }
 		
-		    function start_el(&$output, $item, $depth = 0, $args = array(), $current_object_id = 0){
+		    function start_el(&$output, $item, $depth, $args){
 		      // add spacing to the title based on the depth
 		      $item->title = str_repeat("&nbsp;", $depth * 4).$item->title;
 		
@@ -344,7 +344,7 @@ function get_the_volume_name($post) {
 		      $output = str_replace('<li', '<option value="'. esc_attr( $item->url        ) .'"', $output);
 		    }
 		
-		    function end_el(&$output, $item, $depth = 0, $args = array() ){
+		    function end_el(&$output, $item, $depth){
 		      $output .= "</option>\n"; // replace closing </li> with the option tag
 		    }
 		}
@@ -446,9 +446,10 @@ register_taxonomy_for_object_type('category', 'page');
 }
 add_action( 'admin_init', 'add_category_to_pages' );
 
+//remove scroll-to-top buttin from all pages but v12n1 cover story
 add_filter( 'sbtt_button_markup', 'my_sbtt_filter' );
 function my_sbtt_filter($button_markup) {
-if ( !is_page('5130')) {
+if ( !is_page('5153')) {
 return "";
 } else {
 return $button_markup;

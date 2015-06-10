@@ -9,6 +9,7 @@ Template Name: Feature - Background Right Caption */
 		 ?>
 	
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/stylesheets/features/<?php echo $page_name; ?>.css">
+	<?php /* add per post custom CSS */ if ( get_post_meta($post->ID, 'ecpt_asmag_css', true) ) { echo '<style>' . get_post_meta($post->ID, 'ecpt_asmag_css', true) . '</style>'; } ?>
 	<div id="feature-head">
 	
 		<div class="intro-container row">

@@ -1,10 +1,27 @@
-﻿<?php
+<?php
 /*
 Template Name: Issue Table of Contents — 2 Columned Features
 */
 ?>
 	
 <?php get_header(); ?>
+
+<style>
+
+body.v12n2 {
+  background: -webkit-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #8e9eab 10%, #eef2f3 90%); /* W3C */
+        
+}
+
+header,
+body.page-template-template-tableofcontents-features-php #container-mid {
+	background: rgba(0,0,0,.2);
+}
+</style>
 			
 <div id="container-mid">
 	<div id="homepage" class="row">
@@ -16,7 +33,7 @@ Template Name: Issue Table of Contents — 2 Columned Features
 			$asmag_issue_query = new WP_Query(array(
 				'post_type' => 'post',
 				'volume' => $volume,
-				'category__not_in' => array(55, 30, 3, 4),
+				'category__not_in' => array(55, 30),
 				'orderby' => 'modified',
 				'order' => 'DESC',
 				'posts_per_page' => '-1'));

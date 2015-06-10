@@ -16,7 +16,7 @@ Template Name: Issue Table of Contents
 			$asmag_issue_query = new WP_Query(array(
 				'post_type' => 'post',
 				'volume' => $volume,
-				'category__not_in' => array(55, 30, 3, 4),
+				'category__not_in' => array(55, 30),
 				'orderby' => 'rand',
 				'posts_per_page' => '-1'));
 	set_transient( 'front_' . $volume . '_query', $asmag_issue_query, 86400 ); } 

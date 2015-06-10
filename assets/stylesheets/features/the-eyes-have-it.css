@@ -1,5 +1,5 @@
 body {
-	background: #000000 url('../../images/v12n2/hdr_image_otherLives.jpg') no-repeat top center !important;
+	background: #000000 url('../../images/v12n2/hdr_image_eyes.jpg') no-repeat top center !important;
 }
 
 small {
@@ -142,7 +142,7 @@ padding: 4px 33px;
 #feature p {
 	width: 65%;
 	font-size: 18px;
-	line-height: 24px;
+	line-height: 1.6em;
 }
 #feature p.full {
 	width: 104%;
@@ -152,17 +152,40 @@ padding: 4px 33px;
 	margin-bottom: 30px;
 }
 #feature p.lead {
+	margin-top: 50px;
 	font-size: 24px;
-	line-height: 30px;
-	width: 100%;
+	color: #666;
+	line-height: 1.6em;
+	width: 85%;
+}
+
+#feature .photo-caption {
+	float: right;
+	width: 45%;
+}
+
+#feature .photo-caption img {
+	max-width: 100%;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	-moz-box-shadow:none;
+}
+
+#feature .photo-caption p {
+	width: 83%;
+	color: #000;
+	margin-left:40px;
+	padding-right: 20px;
+	font-size: 14px;
+	line-height: 1.6em;
+	color: #000;
 }
 
 .dropcap {
 	font-family: myriad-pro,"Myriad Pro",calibri,helvetica,arial,sans-serif;
 	font-weight: bold;
-	color: #005EB8;
-	margin-top: 15px;
-
+	color: #3366cc;
+	margin-top: 26px;
 }
 
 .rightSidebar {
@@ -234,12 +257,12 @@ margin: 0 -15px;
 
 .imagesection1 .caption {
 	position: relative;
-	background-color: rgba(51, 54, 102, .85);
-	width:250px;
-	float:right;
-	margin-top:-100px;
-	zoom:1;
-	margin-left:15px;
+	background-color: rgba(0,51,153,0.85);
+	width: 250px;
+	float: right;
+	margin-top: -100px;
+	zoom: 1;
+	margin-left: 15px;
 	}
 	
 	
@@ -271,7 +294,7 @@ color: white;
 #feature h4 {
 	font-family: myriad-pro,"Myriad Pro",calibri,helvetica,arial,sans-serif;
 	font-weight: bold;
-	color: #005EB8;
+	color: #3366CC;
 	font-size: 24px;
 	margin-bottom: 4px;
 	margin-top: 80px;
@@ -280,7 +303,7 @@ color: white;
 #feature .callout {
 	float: right;
 	width: 30%;
-	background-color: #cad3d8 !important;
+	background-color: #cad3d8;
 }
 
 
@@ -317,7 +340,7 @@ color: white;
 	margin-left:40px;
 	padding-right: 20px;
 	font-family: myriad-pro,"Myriad Pro",calibri,helvetica,arial,sans-serif;
-	font-size: 12px;
+	font-size: 120%;
 	line-height: 1.6em;
 }
 
@@ -337,12 +360,6 @@ color: white;
 img.quote {
 	margin: 0 -50px -5px -30px;
 	zoom: 1;
-}
-
-p.clearing-caption {
-  font-size: 16px!important;
-  color: white!important;
-  font-family: 'Museo Sans W01 500', Verdana, sans-serif!important;
 }
 
 /**************Sticky Nav*********************/
@@ -367,7 +384,7 @@ p.clearing-caption {
 	color: #fff;
 	font-size: 1em;
 	margin: 0 auto;
-	background-color: #221C79;
+	background-color: #3366CC;
 }
 
 #sticky-food a,
@@ -390,7 +407,7 @@ p.clearing-caption {
 	display:inline;
 	padding:0 15px;
 	border-left:1px solid #555;
-	font-size: 20px;
+	font-size: 22px;
 }
 
 #sticky-food ul li:first-child {
@@ -409,6 +426,12 @@ p.clearing-caption {
 
 #gallery-1  .gallery-item img {
 	max-width: 100px;
+}
+
+@media only screen and (min-width: 768px) {
+	.feature-intro .textblock {
+	  width: 500px;
+	}
 }
 
 @media only screen and (max-width: 767px) {

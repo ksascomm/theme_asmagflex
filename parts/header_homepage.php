@@ -1,7 +1,7 @@
 		<div class="row show-for-small black_bg">
 			<div class="four columns centered">
 			<div class="mobile-logo centered">
-				<li class="logo"><a href="<?php echo home_url(); ?>" title="Krieger School of Arts & Sciences Dev"><span class="hide">Arts & Sciences</span></a>
+				<li class="logo"><a href="<?php echo site_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
 				<select class="bright_blue_bg issue" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
 				<?php $volume_name = get_the_volume_name($post);  $volume = get_the_volume($post);?>
 				<option><?php echo $volume_name; ?></option>
@@ -22,12 +22,12 @@
 			<div id="search-bar" class="offset-by-five seven mobile-four columns">
 				<div class="row">
 				<div id="search_links" class="eight columns links mobile-two inline hide-for-mobile">
-					<li><a href="<?php echo home_url('/dean?volume=') . $volume; ?>">From the Dean</a></li>
-					<li><a href="<?php echo home_url('/archive'); ?>">Archives</a></li>
-					<li><a href="<?php echo home_url('/contact?volume=') . $volume; ?>">Contact</a></li>
+					<li><a href="<?php echo site_url('/dean?volume=') . $volume; ?>">From the Dean</a></li>
+					<li><a href="<?php echo site_url('/archive'); ?>">Archives</a></li>
+					<li><a href="<?php echo site_url('/contact?volume=') . $volume; ?>">Contact</a></li>
 				</div>
 					<div class="four columns mobile-two">
-					<form method="GET" action="<?php echo home_url('/search'); ?>">
+					<form method="GET" action="<?php echo site_url('/search'); ?>">
 						<input type="text" name="q" placeholder="Search this site" />
 						<input type="submit" class="icon-search" value="&#48;" />
 						<input type="hidden" name="site" value="ksas_magazine" />
@@ -37,7 +37,7 @@
 			</div>	<!-- End #search-bar	 -->
 		</div>		<div class="row hide-for-small">
 			<div class="twelve columns" id="logo_nav">
-				<li class="logo"><a href="<?php echo home_url(); ?>" title="Krieger School of Arts & Sciences HOME"><span class="hide">Arts & Sciences</span></a>
+				<li class="logo"><a href="<?php echo site_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
 								<select class="issue" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
 								<?php $volume_name = get_the_volume_name($post); ?>
 								<option><?php echo $volume_name; ?></option>

@@ -1,13 +1,13 @@
 		<div class="row show-for-small black_bg">
 				<div class="toc_nav mobile">
-				<a href="<?php echo home_url(); ?>"><span class="icon-home"></span><span class="hide">Home</span></a>
+				<a href="<?php echo site_url(); ?>"><span class="icon-home"></span><span class="hide">Home</span></a>
 				<a href="#" data-reveal-id="modal_toc" onclick="ga('send', 'event', 'Table of Contents', '<?php echo $volume_name ?>', 'Top');"><span class="icon-toc"></span><span class="hide">Table of Contents</span>
 				<span class="issue"><?php $volume_name = get_the_volume_name($post); echo $volume_name; ?></span></a>
 			</div>
 
 			<div class="four columns centered">
 			<div class="mobile-logo centered">
-				<li class="logo"><a href="<?php echo home_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
+				<li class="logo"><a href="<?php echo site_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
 				<select class="bright_blue_bg issue" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
 				<?php $volume_name = get_the_volume_name($post); ?>
 				<option><?php echo $volume_name; ?></option>
@@ -38,7 +38,7 @@
 							'depth' => 1,
 							'items_wrap' => '%3$s', )); ?> 
 					<div class="four columns mobile-two">
-					<form method="GET" action="<?php echo home_url('/search'); ?>">
+					<form method="GET" action="<?php echo site_url('/search'); ?>">
 						<input type="text" name="q" placeholder="Search this site" />
 						<input type="submit" class="icon-search" value="&#48;" />
 						<input type="hidden" name="site" value="ksas_magazine" />
@@ -50,13 +50,13 @@
 		
 		<div class="row hide-for-small">
 			<div class="toc_nav">
-				<a href="<?php echo home_url(); ?>"><span class="icon-home"></span><span class="hide">Home</span></a>
+				<a href="<?php echo site_url(); ?>"><span class="icon-home"></span><span class="hide">Home</span></a>
 				<a href="#" data-reveal-id="modal_toc" onclick="ga('send', 'event', 'Table of Contents', '<?php echo $volume_name ?>');"><span class="icon-toc"></span><span class="hide">Table of Contents</span>
 				<span class="issue"><?php $volume_name = get_the_volume_name($post); echo $volume_name; ?></span></a>
 			</div>
 			<div class="twelve columns sub-page" id="logo_nav">
 
-				<li class="logo"><a href="<?php echo home_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
+				<li class="logo"><a href="<?php echo site_url(); ?>" title="Krieger School of Arts & Sciences"><span class="hide">Arts & Sciences</span></a>
 								<div class="spacer"></div><span class="logo-sub">Magazine</span></li>
 
 			</div>
